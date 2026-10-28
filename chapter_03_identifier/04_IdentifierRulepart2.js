@@ -10,11 +10,13 @@ var lastName="Dutta";//camel case
 let username="camelCase";
 let totalprice=99.99;
 let isloggedin=true;
+//first letter is small and second word first letter is capital
 
 //2.pascelcase(standard for js variable and constructor)//first 2 letter is capal
 let UserProfile="PascalCase";
 let ShoppingCart="class name style";
-
+//first letter is capital and second word first letter is capital
+//will be used in constructors
 //3.snakecase(underscore separated) 
 let user_name="snake_case";
 let total_price=99.99;
